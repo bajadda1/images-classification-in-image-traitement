@@ -1,2 +1,2 @@
-# images classification in imane traitement
+# images classification in image traitement
  images classification using ArcGis
